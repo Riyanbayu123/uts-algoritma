@@ -1,0 +1,6 @@
+Algoritma greedy merupakan metode yang paling populer untuk memecahkan persoalan optimasi. Greedy sendiri diambil dari bahasa inggris yang artinya rakus, tamak atau serakah .Prinsip algoritma greedy adalah: “take what you can get now!”.
+contoh kehidupan sehari-hari Memilih beberapa jenis investasi (penanaman modal)
+– Mencari jalur tersingkat dari Bandung ke Surabaya
+– Memilih jurusan di Perguruan Tinggi
+– Bermain kartu remi
+Optimalisasi Implementasi Algoritma Greedy dalam Fungsi Penukaran Mata Uang Rupiah 
